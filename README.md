@@ -1,0 +1,1 @@
+This simple Calculator program uses float() to allow decimal numbers, checks the operation entered, and handles division by zero to avoid errors. It prints the result in a clear format such as 10 + 5 = 15 as require
